@@ -1,1 +1,1 @@
-# AI-Projcets
+# AI-Projects
